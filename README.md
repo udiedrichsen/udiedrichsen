@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Developing Flutter Apps for Mobile, Web and Desktop and if you need some advice in cooking :-)**
 
-- 📫 How to reach me **uli@ud-softworks.dev**
+- 📫 How to reach me **uli@moinsen.dev**
 
 - 📄 Know about my experiences [https://www.xing.com/profile/Ulrich_Diedrichsen/cv](https://www.xing.com/profile/Ulrich_Diedrichsen/cv)
 
